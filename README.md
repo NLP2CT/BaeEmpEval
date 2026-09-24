@@ -1,12 +1,12 @@
-# BAEmpBench Demo
+# BaEmpEval Demo
 
 **Benchmarking Audio-Based Empathetic Response Judgment in Large Audio Language Models**
 
 This public demo is hosted in the [NLP2CT Lab, University of Macau](https://github.com/NLP2CT) organization.
 
-- [Live demo](https://nlp2ct.github.io/temp_bench/)
-- [Source repository](https://github.com/NLP2CT/temp_bench)
-- [Download the demo](https://github.com/NLP2CT/temp_bench/archive/refs/heads/main.zip)
+- [Live demo](https://nlp2ct.github.io/BaeEmpEval/)
+- [Source repository](https://github.com/NLP2CT/BaeEmpEval)
+- [Download the demo](https://github.com/NLP2CT/BaeEmpEval/archive/refs/heads/main.zip)
 
 ## Contents
 
@@ -18,7 +18,7 @@ Download or clone this repository and open `index.html` in a browser. Keep the `
 
 ## Publishing
 
-The site is served by GitHub Pages from the root of the `main` branch at <https://nlp2ct.github.io/temp_bench/>.
+The site is served by GitHub Pages from the root of the `main` branch at <https://nlp2ct.github.io/BaeEmpEval/>.
 
 ## License
 
