@@ -22,6 +22,6 @@ The site is served by GitHub Pages from the root of the `main` branch at <https:
 
 ## License
 
-The original website code (HTML, CSS, and any JavaScript) is available under the [MIT License](LICENSE).
+The website code (HTML, CSS, and JavaScript) is available under the [MIT License](https://github.com/NLP2CT/BaeEmpEval/blob/main/LICENSE). The BAEmpEval annotations created by the authors are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-The MIT License does not cover audio recordings, dataset content, transcripts, annotations, or other third-party material. Those materials retain their original terms; this repository does not grant new rights to them.
+These licenses do not cover source audio, source transcripts, or other third-party materials. Such materials remain subject to the licenses and access conditions of their original datasets and must be obtained directly from the original providers. This repository grants no additional rights to them.
